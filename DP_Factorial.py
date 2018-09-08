@@ -1,3 +1,10 @@
+"""
+Author:
+Bhaskar Gautam,
+Data Mining Lab,
+Indian Institute of Technology, Roorkee
+"""
+
 T = int(raw_input())
 nmL = []
 for i in range(T):
